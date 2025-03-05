@@ -48,7 +48,3 @@ To run the project, follow these steps:
 4. In the Jupyter Notebook interface, open the file named "Job Market Analysis.ipynb".
 
 5. Run each cell in the notebook sequentially to execute the code and reproduce the analysis.
-
-
-   ```sh
-   pip install jupyter
